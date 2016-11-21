@@ -1,1 +1,8 @@
-tars
+tars/
+perl-CPAN-Perl-Releases/
+perl-Devel-PatchPerl/
+perl-File-pushd/
+perl-Test-Output/
+perl-Test-Spec/
+perl-local-lib/
+perlbrew/
