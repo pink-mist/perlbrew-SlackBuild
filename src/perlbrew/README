@@ -6,5 +6,3 @@ and a mechanism for you to switch between them.
 
 Everything is installed under ~/perl5/perlbrew. You then need to
 include a bashrc/cshrc provided by perlbrew to tweak the PATH for you.
-
-Website: https://perlbrew.pl/
