@@ -9,7 +9,7 @@ $(infos) : urls
 	@./update.pl $@
 
 define sbo_template =
-${1} : src/${1}/${1}.info
+${1} : src/${1}/${1}.info src/${1}/${1}.SlackBuild src/${1}/README src/${1}/slack-desc
 	@rm -rf ${1}
 	cp -r src/${1} ${1}
 endef
